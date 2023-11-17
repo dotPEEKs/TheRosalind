@@ -1,1 +1,1 @@
-* Ne Yazık Ki GUI Kodlarını paylaşamam
+* GUI Kodları Ticari amaç içerdiği için ne yazık ki GUI kodlarını paylaşamam
